@@ -1,0 +1,4 @@
+Name: Nguyen Thi Nhu Quynh
+   Eng : 9.0 (weight: 2.0)
+   Math : 9.0 (weight: 1.0)
+   Overall mark: 9.0
